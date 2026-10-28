@@ -4,6 +4,9 @@ Bem-vindo ao repositório do aplicativo de Lista de Presentes de Casamento de **
 
 A aplicação é integrada diretamente com uma planilha do **Google Sheets** via **Google Apps Script**, servindo como banco de dados em tempo real sem a necessidade de complexas infraestruturas de banco de dados relacionais.
 
+🔗 **Demo:** [listapresente-clara-luiz.vercel.app](https://listapresente-clara-luiz.vercel.app)  
+💌 **Projeto Relacionado:** [Convite de Casamento Digital — Clara & Luiz](https://github.com/xouel/convite-casamento-clara-luiz) ([Demo](https://convitecasamento-clara-luiz.vercel.app))
+
 ---
 
 ## Funcionalidades Principais
